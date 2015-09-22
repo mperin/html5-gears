@@ -1,0 +1,1 @@
+A JavaScript shim for HTML 5's offline API and manifest format, implemented using Google Gears under the cover.
